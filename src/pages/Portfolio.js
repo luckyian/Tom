@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Card from 'react-bootstrap/Card';
 import Container from 'react-bootstrap/Container';
 
-function Portfolio() {
+function Projects() {
 
 
   return (
@@ -96,4 +96,4 @@ function Portfolio() {
 
 }
 
-export default Portfolio;
+export default Projects;
