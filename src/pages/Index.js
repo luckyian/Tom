@@ -18,7 +18,7 @@ function Index() {
             <Card.Body>
               <Card.Title><h1><u>Tom Stegeman</u></h1></Card.Title>
               <div className="float-left" >
-                <Card.Img src="./assets/handyman.jpg" className="p-2" alt="Tom"></Card.Img>
+                <Card.Img src=".\assets\handyman.jpg" className="p-2" alt="Tom"></Card.Img>
               </div>
               <div>
              <p>
