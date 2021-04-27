@@ -16,42 +16,31 @@ function Index() {
         <div className="p-5">
           <Card className="aboutBack">
             <Card.Body>
-              <Card.Title><h1><u>About Me</u></h1></Card.Title>
+              <Card.Title><h1><u>Tom Stegeman</u></h1></Card.Title>
               <div className="float-left" >
-                <Card.Img src="./assets/Ian.jpg" className="p-2" alt="Ian Wren"></Card.Img>
+                <Card.Img src="./assets/handyman.jpg" className="p-2" alt="Tom"></Card.Img>
               </div>
               <div>
-             <p> My name is Ian Wren and I live in Seattle, WA.  I am 38 years old and
-                attend the University of Washington's full-stack coding bootcamp.
+             <p>
+               Hi! I'm Tom and I'm a handyman, do construction and provide landscape services.
              <br></br>
              <br></br>
-             I am looking to have a career as software developer with a focus on web
-             development. I currently work in retail where I have been in management
-             and trained, developed and coached associates to reach thier highest potential.
+             I have worked building and maintaining various sctructures over the last 15 years.
              <br></br>
              <br></br>
-             I am switching careers now to a vocation that challenges me on different
-             levels and allows me more time to spend with my loved ones, including my wife and
-             two feline fur-babies.
+             Growing up on a farm taught me the skills I use and honed my work-ethic.  I work hard, and I can work hard for
+             you on any projects you need done or repairs to existing plan or design.
              <br></br>
              <br></br>
-             Some of my hobbies include playing video games, gardening, home improvement on my current
-             residence, hiking, trying new foods and drinks and travelling.  My youngest fur baby, Fox "Spooky" Mulder
-             enjoys travelling with my wife, Drea, and I and he also enjoys hikes while on a leash.
+             More words to describe yourself here.
              </p>
              <br></br>
              <br></br>
              <p>
                   <h3><u>Contact Info</u></h3>
-                  <h4>Email: ian.wren81@gmail.com</h4>
-                  <h4>Phone: Contained in Resume</h4>
-                  <h4><a href="https://drive.google.com/file/d/1repu1_TLSkM5UwfJFO3LysVA6wazq6Is/view?usp=sharing">Resume</a></h4>
-                  <h4>
-                    <a href="https://linkedin.com/in/ian-wren-53b382112">LinkedIn</a>
-                  </h4>
-                  <h4>
-                    <a href="https://github.com/luckyian">GitHub</a>
-                  </h4>
+                  <h4>Email: ivegottaguyseattle@gmail.com</h4>
+                  <h4>Phone: 206-739-6775</h4>
+                 
 
               </p>
 
