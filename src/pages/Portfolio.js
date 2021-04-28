@@ -19,8 +19,7 @@ function Projects() {
             cardText={data.projects[0].cardText}
             src={data.projects[0].src}
             alt={data.projects[0].alt}
-            github={data.projects[0].github}
-            project={data.projects[0].project}
+            
           />
         
       </Card>
@@ -32,8 +31,7 @@ function Projects() {
             cardText={data.projects[1].cardText}
             src={data.projects[1].src}
             alt={data.projects[1].alt}
-            github={data.projects[1].github}
-            project={data.projects[1].project}
+    
           />
         
       </Card >
@@ -45,13 +43,12 @@ function Projects() {
             cardText={data.projects[2].cardText}
             src={data.projects[2].src}
             alt={data.projects[2].alt}
-            github={data.projects[2].github}
-            project={data.projects[2].project}
+           
           />
         
       </Card >
       
-      <Card className="portfolioCard">
+      {/* <Card className="portfolioCard">
         
           <Project _id={data.projects[3]._id}
             cardTitle={data.projects[3].cardTitle}
@@ -88,7 +85,7 @@ function Projects() {
             project={data.projects[5].project}
           />
         
-      </Card >
+      </Card > */}
     
     </Container >
     
